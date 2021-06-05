@@ -1,7 +1,3 @@
-/* 	Questo codice è stato scritto     */
-/* 	un giovedi del 3 giugno 2021      */
-/* 	e poi aggiornato il 5 giugno 2021 */
-
 #include <stdio.h>
 #include <sys/stat.h>
 #include <fcntl.h>
